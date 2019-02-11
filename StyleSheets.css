@@ -18,8 +18,20 @@ margin-right: auto;
 text-align: right;
 color: Green;
 padding-top: 10px;
+ width: auto
 }
 
+#header2 {
+height: 210px;
+background-image: url("bannerblank.png");
+background-repeat: no-repeat;
+margin-left: auto;
+margin-right: auto;
+text-align: right;
+color: Green;
+padding-top: 10px;
+ width: auto
+}
 h1, h2, h3 {font-family: 'Inknut Antiqua', serif;
 margin: 0;
 }
