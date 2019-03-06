@@ -19,9 +19,8 @@ fill('pink');
 
        
         strokeWeight(1);//nose weight
-        
-        triangle( 250, 244, 240, 222, 263, 223)  
-
+    
+        triangle( 250, 244, 240, 222, 263, 223,); 
 
     }
 
